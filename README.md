@@ -220,12 +220,6 @@ Train_Web_CMRU/
 
 ---
 
-## 📄 License
-
-โปรเจคนี้อยู่ภายใต้ **MIT License** — ดูรายละเอียดเพิ่มเติมได้ที่ [LICENSE](LICENSE)
-
----
-
 <div align="center">
 
 Made with ❤️ at **CMRU — กิจกรรมพี่สอนน้อง**
